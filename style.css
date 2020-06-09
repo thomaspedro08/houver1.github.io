@@ -1,0 +1,25 @@
+
+body
+ {
+    background-color:yellow !important;
+
+}
+
+div {
+    background-color: red;
+    display: inline-block;
+    padding: 30px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: normal;
+    font-family: arial;
+}
+
+div:hover {
+    cursor: pointer;
+    background-color: cyan;
+    color: #000000;
+}
+
+
+</style>
